@@ -1,0 +1,49 @@
+body {
+    background: #F3E5D8;
+    font-family: "younh-serif";
+    font-size: 20px;
+    padding: 20rem;
+    
+}
+
+:root {
+    --fonte--secundaria: "outfit"
+}
+
+.custom {
+    border: solid 5rem #FFF7FC  ;
+    box-shadow: inset 0 0 0 1000px #FFF7FC;
+    border-radius: 30px;;
+}
+
+
+
+.image{
+    max-width: 100%;
+    width: 700px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    margin-left: 13rem;
+}
+
+.container-tittle {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.title__page {
+    font-weight: bold;
+    font-size: 56px;
+    line-height: 5.6rem;
+    color: #1a1a1ae1;
+}
+
+.page__paragraph {
+    color: #81817f;
+    line-height: 1.7rem;
+    font-family: var(--fonte--secundaria);
+    font-family: 20px;
+}

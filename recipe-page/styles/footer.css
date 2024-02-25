@@ -1,0 +1,11 @@
+.footer{
+    display: flex;
+    align-items: center;
+    
+}
+
+.footer__credits--button {
+    text-decoration: none;
+    color: #76314B;
+    font-weight: 600;
+}

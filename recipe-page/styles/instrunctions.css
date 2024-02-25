@@ -1,0 +1,17 @@
+.container-3 {
+    display: flex;
+    flex-direction: column;
+    line-height: 3rem;
+    margin: 0 0 5rem 0;
+    font-family: var(--fonte--secundaria);
+}
+
+.subtittle__list--2 {
+    list-style-type: decimal;
+    margin-left: 1.3rem;
+    line-height: 2rem;
+}
+
+.subtittle__list--item {
+    margin-bottom: 1rem;
+}
